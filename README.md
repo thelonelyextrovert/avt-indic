@@ -10,12 +10,14 @@ You can find generated tts datasets with this system with the videodataroot file
 
 Examples of generated videos include:
 
-https://github.com/thelonelyextrovert/avt-indic/assets/48013139/b2dbfeb6-1b66-4afe-91f8-dd87d57fbf52
-Video translated from English to Tamil (included in videodataroot- tamil tts) with lip sync
+[Video translated from English to Tamil (included in videodataroot- tamil tts) with lip sync](https://github.com/thelonelyextrovert/avt-indic/assets/48013139/b2dbfeb6-1b66-4afe-91f8-dd87d57fbf52)
 
 
-https://github.com/thelonelyextrovert/avt-indic/assets/48013139/b383b6da-eeaf-4907-aeaf-688cd1d8ec1d
-Untranslated English video (included in videodataroot- tts) with lip sync
+[Video translated from English to Hindi (included in videodataroot- hindi tts) with lip sync](https://github.com/thelonelyextrovert/avt-indic/assets/48013139/45321d94-fb78-4ecb-be1a-c178b80e5a69)
+
+
+[Untranslated English video (included in videodataroot- tts) with lip sync](https://github.com/thelonelyextrovert/avt-indic/assets/48013139/b383b6da-eeaf-4907-aeaf-688cd1d8ec1d)
+
 
 
 
